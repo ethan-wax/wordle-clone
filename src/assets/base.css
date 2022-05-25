@@ -43,18 +43,18 @@ h1 {
   font-size: 5em;
 }
 
-/* .box:hover {
+.box:hover {
   cursor: pointer;
   box-shadow: 4px 2px 28px rgba(149,157,165,.5);
-} */
+}
 
-.correct {
+.green {
   background-color: rgb(35, 168, 35);
   color: white;
   border: 0px;
 }
 
-.half {
+.yellow {
   background-color: rgb(225, 225, 79);
   color: white;
   border: 0px;
